@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Survey Insights Dashboard, Docx to XML generator**
 
-- 🌱 I’m currently learning **JAVA**
+- 🌱 I’m currently learning **BACKEND**
 
 - 💬 Ask me about **React and Frontend**
 
